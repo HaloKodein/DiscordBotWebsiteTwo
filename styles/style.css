@@ -1,0 +1,105 @@
+/**
+* @Simple-CSS-Project
+* @Author Codein Purple#1373
+* @Template not have license.
+/
+
+/* Definindo flex */
+
+body {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  background: #1b1b1b;
+  color: #fff;
+  font-family: 'Montserrat', 'Tahoma';
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+/* header */
+.bg-light {
+    background-color: #f8f9fa!important;
+}
+
+.navbar{
+  width: 100%;
+}
+
+/* Cards */
+
+.d-inline-block {
+  border: 1px solid;
+  border-radius: 30%;
+}
+
+.jumbotron {
+  width: 75%;
+  height: 55%;
+  margin-top: 8%;
+  background-color: #f8f9fa!important;
+  box-shadow: 7px 7px 9px #f8f9fa!important;
+}
+
+.display-4{
+  margin-left: 20%;
+  margin-top: -15%;
+  color: black;
+}
+
+.lead{
+  color: black;  
+  margin-left: 20%;
+}
+
+.login-button{
+  
+}
+
+
+.badge {
+  background-color: #7289da;
+  color: #fff;
+  font-size: 25px;
+  letter-spacing: 0.1em;
+}
+
+/* Imagens */
+
+.user-image{
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+/* Botões */
+.btn:hover {
+  color: black;
+  background-color: white;
+  border-color: white;
+}
+
+.btn {
+  color: #fff;
+  background-color: black;
+  border-color: black;
+}
+
+
+#btn-support{
+  margin-left: 20%;
+}
+
+#btn-github{
+  
+}
+
+#btn-add{
+  
+}
