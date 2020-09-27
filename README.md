@@ -34,3 +34,4 @@ ____
 # Utils
 ### Em baixo tera um link caso não saiba pegar o link para adicionar o bot
 https://discordapi.com/permissions.html
+`Site html estatico, apenas para iniciantes.`
